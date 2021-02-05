@@ -1,6 +1,6 @@
 # Complete Your First Software Engineering Assignment
 
-## Introduction
+## Super Introduction 
 
 During this course, you will work on various assignments as you learn to
 code. Starting in Phase 1, all assignments will be interactive pieces of curriculum
